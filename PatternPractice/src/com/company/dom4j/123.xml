@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<operation_out>
+  <accept_id>2150241</accept_id>
+  <response_time>20060417141242</response_time>
+  <response>
+    <resp_result>0</resp_result>
+    <resp_code/>
+    <resp_desc/>
+  </response>
+  <content>
+    <user_sec_info/>
+    <new>
+      <new2 type="string">I am new</new2>
+    </new>
+  </content>
+</operation_out>
