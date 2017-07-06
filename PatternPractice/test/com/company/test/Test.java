@@ -24,6 +24,7 @@ public class Test{
 	public Test(){
 		print();
 		System.out.println("class con");
+		
 	}
 	public Test(String name){
 		print();
