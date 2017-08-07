@@ -8,8 +8,8 @@ public class WebServicePublisherImpl implements WebServicePublisher {
 	
 	@Override
 	public String callWebService(String xml) {
-		// TODO Auto-generated method stub
-		return null;
+		System.out.println("pattern webservice....."+xml);
+		return "pattern";
 	}
 	
 }  

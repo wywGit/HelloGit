@@ -8,6 +8,9 @@
 		transaction-type="RESOURCE_LOCAL">
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<class>entity.TbaLog</class>
+		<class>entity.TmhDoctorOnOffRel</class>
+		<class>entity.TcrmWorkValueTechnicalRel</class>
+		<class>entity.TcrmWorkValue</class>
 		<properties>
 			<property name="hibernate.connection.driver_class"
 				value="com.mysql.jdbc.Driver" />
